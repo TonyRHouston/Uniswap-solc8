@@ -1,0 +1,7 @@
+{
+  "name": "uniswap-solc8",
+  "version": "1.0.8",
+  "files": [
+    "contracts"
+  ]
+}
