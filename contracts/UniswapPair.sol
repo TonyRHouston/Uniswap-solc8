@@ -2,7 +2,6 @@
 pragma solidity >=0.4.25 <0.9.0;
 
 import "./UniswapERC20.sol";
-import "./libraries/UniswapV2Library.sol";
 import "./libraries/UQ112x112.sol";
 import "./interfaces/IERC20.sol";
 import "./interfaces/IUniswapFactory.sol";

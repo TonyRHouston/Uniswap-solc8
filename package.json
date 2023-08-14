@@ -1,6 +1,9 @@
 {
   "name": "uniswap-solc8",
-  "version": "1.0.8",
+  "version": "1.0.12",
+  "scripts": {
+    "back": "git add . && git commit -m 'a' && git push"
+  },
   "files": [
     "contracts"
   ]
